@@ -186,3 +186,4 @@ More details can be found on the homepage [MLOps Stacks README](https://github.c
 
 testing deploy to uat !
 test 1
+test 2
